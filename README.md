@@ -98,3 +98,4 @@ This full-stack web application allows Admins, Doctors, and Patients to interact
 🌐 **GitHub Repo:** [AI Patient Record Analyser](https://github.com/premkumar-epic/ai-patient-record-analyser)
 
 ---
+ ## **About me**
